@@ -19,9 +19,6 @@ Software engineer building reliable and scalable systems. Focused on full-stack 
 A privacy-first messaging app implementing the Signal Protocol for E2EE. Built for secure, real-time communication with zero-knowledge architecture.
 `React` `Node.js` `MongoDB` `TypeScript`
 
-**LiveJudge** — *Real-Time Coding & Interview Platform*
-A competitive coding platform with live collaboration for technical interviews. Features real-time code execution, evaluation, and structured interview workflows.
-
 ---
 
 ### Hacktoberfest
