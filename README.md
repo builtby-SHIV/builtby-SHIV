@@ -30,7 +30,7 @@ A privacy-first messaging app implementing the Signal Protocol for E2EE. Built f
 ### GitHub
 
 <div align="center">
-  <img height="170" alt="" src="https://github-readme-stats.vercel.app/api?username=shiv7shukla&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3bb87f&icon_color=3bb87f&text_color=c9d1d9&count_private=true&include_all_commits=true" />
+  <img height="170" alt="" src="https://github-readme-stats.vercel.app/api?username=builtby-SHIV&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3bb87f&icon_color=3bb87f&text_color=c9d1d9&count_private=true&include_all_commits=true" />
   <img height="170" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv7shukla&layout=compact&hide_border=true&bg_color=0d1117&title_color=3bb87f&text_color=c9d1d9&langs_count=8" />
 </div>
 
