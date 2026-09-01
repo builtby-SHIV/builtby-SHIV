@@ -3,7 +3,7 @@
 Software engineer building reliable and scalable systems. Focused on full-stack development, real-time applications, and security-first architecture.
 
 [![Email](https://img.shields.io/badge/Email-1a1a2e?style=flat&logo=gmail&logoColor=white)](mailto:shivshukla00514@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat&logo=github&logoColor=white)](https://github.com/shiv7shukla)
+[![GitHub](https://img.shields.io/badge/GitHub-1a1a2e?style=flat&logo=github&logoColor=white)](https://github.com/builtby-SHIV)
 
 ---
 
@@ -31,11 +31,11 @@ A privacy-first messaging app implementing the Signal Protocol for E2EE. Built f
 
 <div align="center">
   <img height="170" alt="" src="https://github-readme-stats.vercel.app/api?username=builtby-SHIV&show_icons=true&hide_border=true&bg_color=0d1117&title_color=3bb87f&icon_color=3bb87f&text_color=c9d1d9&count_private=true&include_all_commits=true" />
-  <img height="170" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiv7shukla&layout=compact&hide_border=true&bg_color=0d1117&title_color=3bb87f&text_color=c9d1d9&langs_count=8" />
+  <img height="170" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=builtby-SHIV&layout=compact&hide_border=true&bg_color=0d1117&title_color=3bb87f&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img alt="" src="https://github-readme-streak-stats.herokuapp.com?user=shiv7shukla&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3BB87F&fire=3BB87F&currStreakLabel=3BB87F" />
+  <img alt="" src="https://github-readme-streak-stats.herokuapp.com?user=builtby-SHIV&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3BB87F&fire=3BB87F&currStreakLabel=3BB87F" />
 </div>
 
 ---
