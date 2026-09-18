@@ -9,7 +9,7 @@ Software engineer building reliable and scalable systems. Focused on full-stack 
 
 ### Stack
 
-[![My SKill](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,nextjs,tailwind,mongodb,postgres,prisma,mysql,npm,python,materialui,md,git)](https://skillicons.dev)
+[![My SKill](https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,nextjs,tailwind,mongodb,postgres,prisma,mysql,npm,python,go,materialui,md,git)](https://skillicons.dev)
 
 ---
 
